@@ -158,6 +158,7 @@ int main() {
         logic();
         Sleep(600);
     }
+    system("cls");
     cout << "GAME OVER"<< endl;
     cout << "FINAL SCORE IS: " << score << endl;
     return 0;
